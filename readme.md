@@ -1,15 +1,4 @@
-# ALIEN88 -  Self-made Mechanical Keyboard 
-   <img src="doc/img/a88-photo1.jpg" alt="img" title="ALIEN88 : Self-made Mechanical Keyboard" width=700>
-
-## Documents
-
- - [About ALIEN88](https://coal.hatenablog.com/entry/2023/04/22/190904) (In Japanse article)
- - [ALIEN88  Installation Guide](doc/installation_guide.md)
- - [User's Guide](doc/users_guide.md)
+# ALIEN88 Mk-II -  Self-made Mechanical Keyboard 
 
 
-## Firmware
- - [Firmware source code](https://github.com/hanachi-ap/kbd_firmware/tree/main/qmk_firmware/keyboards/hanachi_ap/) (for qmk_firmware_0.18.17)
-
-## Resources
-  - Please hold on for a moment regarding this information.
+[See the wiki for documentation](https://github.com/hanachi-ap/alien88mk2/wiki)
